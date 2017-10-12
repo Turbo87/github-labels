@@ -1,8 +1,8 @@
 [
   {
-    "name": "beginner-friendly",
+    "name": "good first issue",
     "color": "fbca04",
-    "aliases": ["help wanted"]
+    "aliases": ["help wanted", "beginner-friendly"]
   },
   {
     "name": "breaking",
